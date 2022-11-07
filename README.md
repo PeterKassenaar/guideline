@@ -1,5 +1,5 @@
-# guideline
-Slides and example code on the training Vue.js - Guideline, Fall 2022
+# Training Guideline BE
+Slides and example code on the training Vue.js - Guideline BE, Fall 2022
 
 
 ## Links
